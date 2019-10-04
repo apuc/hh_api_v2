@@ -1,0 +1,15 @@
+{
+    "name": "craft-group/headhunter-wrapper",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+    "preferred-install": "dist",
+    "platform": {
+        "php": "7.0.0"
+    }
+},
+    "autoload": {
+        "classmap": ["classes"]
+    }
+}
